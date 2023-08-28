@@ -2,4 +2,4 @@
 
 **Autor:** Anderson Deizepe
 
-Gerenciador financeiro em Node.js, React e APP em React Native
+Gerenciador financeiro em Node.js, React e APP em React Native.
